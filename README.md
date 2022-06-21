@@ -74,24 +74,24 @@ for i in range(0,9):
 
 ### Original Image:
 
-![output](./img/1.png)
+![output](./1.png)
 
 ### Global Thresholding:
 
-![output](./img/2.png)
-![output](./img/3.png)
-![output](./img/4.png)
-![output](./img/5.png)
-![output](./img/6.png)
+![output](./2.png)
+![output](./3.png)
+![output](./4.png)
+![output](./5.png)
+![output](./6.png)
 
 ### Adaptive Thresholding:
 
-![output](./img/8.png)
-![output](./img/9.png)
+![output](./8.png)
+![output](./9.png)
 
 ### Optimum Global Thesholding using Otsu's Method:
 
-![output](./img/7.png)
+![output](./7.png)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
